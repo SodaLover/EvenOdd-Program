@@ -17,3 +17,5 @@ Make sure to have the latest release!
 This will be important. The only reasons i'd keep
 the older ones is because they are base code and the newer versions are bug
 fixes (other than the GUI update!)
+# Important!
+When i am finished with these things i will merge the multitool branch and the repository will be renamed, and this file will be changed. Remeber this!
