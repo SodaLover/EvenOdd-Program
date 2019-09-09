@@ -1,0 +1,6 @@
+1.1 Update Notes
+1.1 isn't a big update. If you see another branch called multiutility,
+that's where i'll be putting multiutility programs that include this program.
+1.1 has improved intro text and added 2 easter eggs. I will put easter eggs in my programs.
+Thanks!
+-SodaLover
