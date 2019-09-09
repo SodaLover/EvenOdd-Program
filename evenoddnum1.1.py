@@ -13,7 +13,7 @@ def program():
             print(i)
     elif evenodd == "c0deread":
         print("Thanks for checking out my code! You should make a pull request if you spot any bugs.")
-    elif evenodd == "git5647382910"
+    elif evenodd == "git5647382910":
         print("Wow, this is precise.")
     else:
         print("I don't understand that.")
